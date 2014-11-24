@@ -1,0 +1,35 @@
+/*Use this for custom css for portfolio*/
+
+body {
+	padding-top: 20px;
+	font-family: georgia;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumbotron {
+	background-color: #E0F0FF;
+}
+
+/* NAV BAR CSS */
+.navbar {
+	border:0;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 12px;
+    letter-spacing: .1em;
+    margin-bottom: -15px;
+}
+.masthead
+	a{
+		color: black;
+	}
+	a:hover{
+		color: turquoise;
+	}
+.navbar-default {
+	background-color: transparent;
+}
